@@ -1,1 +1,1 @@
-# WEB-205-Staging-Area
+# WEB-205 Staging Area
